@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm currently a Computer Engineering student and I convert ideas and creativity into technology.
+I'm a Computer Engineer and I convert ideas and creativity into technology.
 
 
 ## GitHub Stats
